@@ -3,3 +3,6 @@ pytest==9.0.2
 black==25.12.0
 wikipedia==1.4.0
 ipython==9.8.0
+uvicorn[standard]==0.40.0
+fastapi==0.127.1
+pydantic==2.12.5
